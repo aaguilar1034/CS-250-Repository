@@ -8,3 +8,8 @@ I interpret user needs by first identifying the problem the user is trying to so
 I approach development iteratively. Rather than trying to build everything at once, I prefer breaking work into smaller, manageable increments that can be tested and improved continuously. Agile practices such as sprint planning, daily stand-ups, retrospectives, and backlog refinement help maintain focus and adaptability.
 
 In my future development work, I hope to continue incoporating: Iterative development cycles, continuous feedback loops, backlog prioritization, retrospectives for improvement, and clear documentation through user stories. Agile encourages flexibility and responsiveness to change, which is especially important in fast-moving technical environments.
+
+# What does it mean to be a good team member in software development?
+Being a good team member means communicating clearly, being accountable for assigned work, and supporting other team members when needed. It also means being open to feedback and willing to adapt. Collaboration is essential in Agile environments because shared ownership reduces bottlenecks and improves overall team performance.
+
+A good developer does not work in isolation. They actively participate in discussions, share knowledge, and help create an environment of transparency and trust. Strong teamwork ultimately leads to higher-quality software and more successful project outcomes.
